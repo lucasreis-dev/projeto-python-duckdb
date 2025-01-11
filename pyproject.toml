@@ -2,9 +2,7 @@
 name = "projeto-python-duckdb"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Lucas Reis",email = "lucasreis95@live.com"}
-]
+authors = ["Lucas Reis <lucasreis95@live.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
